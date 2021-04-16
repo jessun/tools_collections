@@ -4,7 +4,13 @@
 
 - `github-cli`: [https://cli.github.com/manual](https://cli.github.com/manual)
 - `TinyPNG CLI`: [https://github.com/websperts/tinypng-cli](https://github.com/websperts/tinypng-cli)
+- `mdBook`: [https://github.com/rust-lang/mdBook](https://github.com/rust-lang/mdBook)
+- `gitui`: [https://github.com/extrawurst/gitui](https://github.com/extrawurst/gitui)
+
+TRANSLATOR
+
 - `fy-cli-rust`: [https://github.com/Kreedzt/fy-cli-rust](https://github.com/Kreedzt/fy-cli-rust)
+- `fanyi`: [https://github.com/afc163/fanyi](https://github.com/afc163/fanyi)
 
 ## 2. WEB SERVICES
 
