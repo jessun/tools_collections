@@ -6,8 +6,9 @@
 - `TinyPNG CLI`: [https://github.com/websperts/tinypng-cli](https://github.com/websperts/tinypng-cli)
 - `mdBook`: [https://github.com/rust-lang/mdBook](https://github.com/rust-lang/mdBook)
 - `gitui`: [https://github.com/extrawurst/gitui](https://github.com/extrawurst/gitui)
+- `rip`: [https://github.com/nivekuil/rip](https://github.com/nivekuil/rip)
 
-TRANSLATOR
+### TRANSLATOR
 
 - `fy-cli-rust`: [https://github.com/Kreedzt/fy-cli-rust](https://github.com/Kreedzt/fy-cli-rust)
 - `fanyi`: [https://github.com/afc163/fanyi](https://github.com/afc163/fanyi)
@@ -51,3 +52,4 @@ E-BOOKS:
 
 - `ventoy`: [https://www.ventoy.net](https://www.ventoy.net)
 - `todesk`: Remote Control. [https://www.todesk.com](https://www.todesk.com)
+
