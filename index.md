@@ -9,13 +9,12 @@
 - `sad`: [https://github.com/ms-jpq/sad](https://github.com/ms-jpq/sad)
 - `xcp`: [https://github.com/tarka/xcp](https://github.com/tarka/xcp)
 - `fcp`: [https://github.com/Svetlitski/fcp](https://github.com/Svetlitski/fcp)
-- `rip`: [https://github.com/nivekuil/rip](https://github.com/nivekuil/rip)
 - `bottom`: [https://github.com/ClementTsang/bottom](https://github.com/ClementTsang/bottom)
 - `cargo-edit`: [https://github.com/killercup/cargo-edit](https://github.com/killercup/cargo-edit)
 - `fd`: [https://github.com/sharkdp/fd](https://github.com/sharkdp/fd)
 - `navi`: [https://github.com/denisidoro/navi](https://github.com/denisidoro/navi)
 - `ripgrep`: [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
-- `bat`: [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
+- `bat`: [https://github.com/sharkdp/bat](https://github.com/sharkdp/bat)
 - `exa`: [https://github.com/ogham/exa](https://github.com/ogham/exa)
 - `procs`: [https://github.com/dalance/procs](https://github.com/dalance/procs)
 - `sd`: [https://github.com/chmln/sd](https://github.com/chmln/sd)
@@ -24,6 +23,7 @@
 - `grex`: [https://github.com/pemistahl/grex](https://github.com/pemistahl/grex)
 - `delta`: [https://github.com/pemistahl/grex](https://github.com/pemistahl/grex)
 - `diff-so-fancy`: [https://github.com/so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
+- `coreutils`: [https://github.com/uutils/coreutils](https://github.com/uutils/coreutils)
 
 ### TRANSLATOR
 
@@ -61,12 +61,31 @@ E-BOOKS:
 
 - `obook`: [http://www.obook.vip/books](http://www.obook.vip/books)
 
+Collection:
+
+- `Yovisun Tools`: [https://tool.yovisun.com/](https://tool.yovisun.com/)
+
 ## 3. APPS
 
 - `Lepton`: [http://hackjutsu.com/Lepton](http://hackjutsu.com/Lepton)
+- `Foliate`: [https://johnfactotum.github.io/foliate/](https://johnfactotum.github.io/foliate/)
+- `Linear`: [https://linear.app/](https://linear.app/)
 
 ## 4. OS
 
 - `ventoy`: [https://www.ventoy.net](https://www.ventoy.net)
 - `todesk`: Remote Control. [https://www.todesk.com](https://www.todesk.com)
+- `Rpm Search`: [http://rpm.pbone.net/](http://rpm.pbone.net/)
 
+## 5. EDITOR AND PLUGINS
+
+- `neovim`: [https://github.com/neovim/neovim](https://github.com/neovim/neovim)
+      - [http://vimawesome.com/](http://vimawesome.com/)
+      - [https://github.com/akrawchyk/awesome-vim](https://github.com/akrawchyk/awesome-vim)
+      - [https://github.com/rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
+      - MyDotfiles [https://github.com/jessun/dotfiles](https://github.com/jessun/dotfiles)
+
+## 6. Rust Development
+
+- `cargo-edit`: [https://github.com/killercup/cargo-edit](https://github.com/killercup/cargo-edit)
+- `awesome-alternatives-in-rust`: [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
