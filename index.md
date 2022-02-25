@@ -52,6 +52,11 @@ IP:
 - `whoer`: [https://whoer.net](https://whoer.net)
 - `ip111`: [http://ip111.cn](http://ip111.cn)
 
+UML & Flowchart
+
+- Gliffy Diagrams(chrome App): [https://chrome.google.com/webstore/detail/gliffy-diagrams/bhmicilclplefnflapjmnngmkkkkpfad?hl=zh-CN](chrome App)
+- yEd live(web service): [https://www.yworks.com/yed-live/](https://www.yworks.com/yed-live/)
+
 Markdown:
 
 - `milkdown`: [https://saul-mirone.github.io/milkdown](https://saul-mirone.github.io/milkdown)
