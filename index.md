@@ -74,7 +74,6 @@ A cn and us translate tool in your command line.
 
     - `Badge Poser`: [https://poser.pugx.org](https://poser.pugx.org)  
        Github badge
-
     - `Lepton`: [http://hackjutsu.com/Lepton](http://hackjutsu.com/Lepton)  
        Democratizing Snippet Management (macOS/Win/Linux)
 
@@ -96,13 +95,31 @@ A cn and us translate tool in your command line.
 
     - `processon`: [https://www.processon.com/](https://www.processon.com/)  
 
-6. Markdown:
+6. Docs tools
 
    - `milkdown`: [https://saul-mirone.github.io/milkdown](https://saul-mirone.github.io/milkdown)  
    - `markdown2confluence`: [http://chunpu.github.io/markdown2confluence/browser](http://chunpu.github.io/markdown2confluence/browser)  
+   - `md2c`: [https://lichangwei.github.io/md2c/index.html](https://lichangwei.github.io/md2c/index.html)
+   - `markmap`: [https://markmap.js.org/](https://markmap.js.org/)
+   - `alldocs`: [https://alldocs.app/](https://alldocs.app/)
 
-7. Collection:
+7. Music
+
+   - `Tune my music`: [https://www.tunemymusic.com/zh-cn/](https://www.tunemymusic.com/zh-cn/)
+
+8. Tools Collection
+
    - `Yovisun Tools`: [https://tool.yovisun.com/](https://tool.yovisun.com/)
+   - `67tools`: [https://www.67tool.com/](https://www.67tool.com/)
+
+9. Wallpaper
+    
+   - `wallhaven.cc`: [https://wallhaven.cc/](https://wallhaven.cc/)
+
+10. Release subscription
+
+   - `newreleases.io`: [https://newreleases.io/](https://newreleases.io/)
+   - `releasealert.dev`: [https://releasealert.dev/](https://releasealert.dev/)
 
 ## 3. APPS
 
@@ -118,6 +135,7 @@ A cn and us translate tool in your command line.
 
 - `ventoy`: [https://www.ventoy.net](https://www.ventoy.net)  
 - `Rpm Search`: [http://rpm.pbone.net/](http://rpm.pbone.net/)  
+- `Windows images download`: [https://tb.rg-adguard.net/public.php](https://tb.rg-adguard.net/public.php)
 
 ## 5. Remote
 - `todesk`: [https://www.todesk.com](https://www.todesk.com)  
@@ -135,3 +153,12 @@ A cn and us translate tool in your command line.
 
 - `cargo-edit`: [https://github.com/killercup/cargo-edit](https://github.com/killercup/cargo-edit)  
 - `awesome-alternatives-in-rust`: [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)  
+
+## 7. Apple Device
+
+- `Apple Support`: [https://checkcoverage.apple.com/cn/zh](https://checkcoverage.apple.com/cn/zh)
+
+## 8. Development and debug
+
+- `zan-proxy`: [https://youzan.github.io/zan-proxy/](https://youzan.github.io/zan-proxy/)
+- `Codelf`: [https://unbug.github.io/codelf/](https://unbug.github.io/codelf/)
