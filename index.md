@@ -8,7 +8,7 @@ Github cli client
 - `mdBook`: [https://github.com/rust-lang/mdBook](https://github.com/rust-lang/mdBook)  
 Create book from markdown files. Like Gitbook but implemented in Rust
 
-- `gitui`: [https://github.com/extrawurst/gitui](https://github.com/extrawurst/gitui)  
+- `gitui`: [https://github.com/extrawurst/gitui](https://github.com/extrawurst/gitui)
 Git UI client in terminal
 
 - `rip`: [https://github.com/nivekuil/rip](https://github.com/nivekuil/rip)  
@@ -113,13 +113,13 @@ A cn and us translate tool in your command line.
    - `67tools`: [https://www.67tool.com/](https://www.67tool.com/)
 
 9. Wallpaper
-    
+
    - `wallhaven.cc`: [https://wallhaven.cc/](https://wallhaven.cc/)
 
 10. Release subscription
 
-   - `newreleases.io`: [https://newreleases.io/](https://newreleases.io/)
-   - `releasealert.dev`: [https://releasealert.dev/](https://releasealert.dev/)
+- `newreleases.io`: [https://newreleases.io/](https://newreleases.io/)
+- `releasealert.dev`: [https://releasealert.dev/](https://releasealert.dev/)
 
 ## 3. APPS
 
@@ -138,16 +138,17 @@ A cn and us translate tool in your command line.
 - `Windows images download`: [https://tb.rg-adguard.net/public.php](https://tb.rg-adguard.net/public.php)
 
 ## 5. Remote
+
 - `todesk`: [https://www.todesk.com](https://www.todesk.com)  
 - `rustdeck`: [https://rustdesk.com/zh/](https://rustdesk.com/zh/)  
 
 ## 5. EDITOR AND PLUGINS
 
-- `neovim`: [https://github.com/neovim/neovim](https://github.com/neovim/neovim)   
-    - [http://vimawesome.com/](http://vimawesome.com/)  
-    - [https://github.com/akrawchyk/awesome-vim](https://github.com/akrawchyk/awesome-vim)  
-    - [https://github.com/rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)  
-    - MyDotfiles [https://github.com/jessun/dotfiles](https://github.com/jessun/dotfiles)  
+- `neovim`: [https://github.com/neovim/neovim](https://github.com/neovim/neovim)
+  - [http://vimawesome.com/](http://vimawesome.com/)  
+  - [https://github.com/akrawchyk/awesome-vim](https://github.com/akrawchyk/awesome-vim)  
+  - [https://github.com/rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)  
+  - MyDotfiles [https://github.com/jessun/dotfiles](https://github.com/jessun/dotfiles)  
 
 ## 6. Rust Development
 
