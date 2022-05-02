@@ -113,9 +113,13 @@ A cn and us translate tool in your command line.
    - `Yovisun Tools`: [https://tool.yovisun.com/](https://tool.yovisun.com/)
    - `67tools`: [https://www.67tool.com/](https://www.67tool.com/)
 
-9. Wallpaper
+9. Art/Wallpaper
 
    - `wallhaven.cc`: [https://wallhaven.cc/](https://wallhaven.cc/)
+   - `nordthemewallpapers.com`: [https://nordthemewallpapers.com/](https://nordthemewallpapers.com/)
+   - `deviantart.com`: [https://www.deviantart.com/](https://www.deviantart.com/)
+   - `store.kde.org`: [https://store.kde.org/](https://store.kde.org/)
+   - `setaswall.com`: [https://www.setaswall.com/](https://www.setaswall.com/)
 
 10. Release subscription
 
