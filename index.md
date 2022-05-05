@@ -98,33 +98,37 @@ A cn and us translate tool in your command line.
 
 6. Docs tools
 
-   - `milkdown`: [https://saul-mirone.github.io/milkdown](https://saul-mirone.github.io/milkdown)  
-   - `markdown2confluence`: [http://chunpu.github.io/markdown2confluence/browser](http://chunpu.github.io/markdown2confluence/browser)  
-   - `md2c`: [https://lichangwei.github.io/md2c/index.html](https://lichangwei.github.io/md2c/index.html)
-   - `markmap`: [https://markmap.js.org/](https://markmap.js.org/)
-   - `alldocs`: [https://alldocs.app/](https://alldocs.app/)
+    - `milkdown`: [https://saul-mirone.github.io/milkdown](https://saul-mirone.github.io/milkdown)  
+    - `markdown2confluence`: [http://chunpu.github.io/markdown2confluence/browser](http://chunpu.github.io/markdown2confluence/browser)  
+    - `md2c`: [https://lichangwei.github.io/md2c/index.html](https://lichangwei.github.io/md2c/index.html)
+    - `markmap`: [https://markmap.js.org/](https://markmap.js.org/)
+    - `alldocs`: [https://alldocs.app/](https://alldocs.app/)
 
 7. Music
 
-   - `Tune my music`: [https://www.tunemymusic.com/zh-cn/](https://www.tunemymusic.com/zh-cn/)
+    - `Tune my music`: [https://www.tunemymusic.com/zh-cn/](https://www.tunemymusic.com/zh-cn/)
 
 8. Tools Collection
 
-   - `Yovisun Tools`: [https://tool.yovisun.com/](https://tool.yovisun.com/)
-   - `67tools`: [https://www.67tool.com/](https://www.67tool.com/)
+    - `Yovisun Tools`: [https://tool.yovisun.com/](https://tool.yovisun.com/)
+    - `67tools`: [https://www.67tool.com/](https://www.67tool.com/)
 
 9. Art/Wallpaper
 
-   - `wallhaven.cc`: [https://wallhaven.cc/](https://wallhaven.cc/)
-   - `nordthemewallpapers.com`: [https://nordthemewallpapers.com/](https://nordthemewallpapers.com/)
-   - `deviantart.com`: [https://www.deviantart.com/](https://www.deviantart.com/)
-   - `store.kde.org`: [https://store.kde.org/](https://store.kde.org/)
-   - `setaswall.com`: [https://www.setaswall.com/](https://www.setaswall.com/)
+    - `wallhaven.cc`: [https://wallhaven.cc/](https://wallhaven.cc/)
+    - `nordthemewallpapers.com`: [https://nordthemewallpapers.com/](https://nordthemewallpapers.com/)
+    - `deviantart.com`: [https://www.deviantart.com/](https://www.deviantart.com/)
+    - `store.kde.org`: [https://store.kde.org/](https://store.kde.org/)
+    - `setaswall.com`: [https://www.setaswall.com/](https://www.setaswall.com/)
 
 10. Release subscription
 
-- `newreleases.io`: [https://newreleases.io/](https://newreleases.io/)
-- `releasealert.dev`: [https://releasealert.dev/](https://releasealert.dev/)
+    - `newreleases.io`: [https://newreleases.io/](https://newreleases.io/)
+    - `releasealert.dev`: [https://releasealert.dev/](https://releasealert.dev/)
+
+11. Others
+
+    - `arch linux 简明指南`: [https://arch.icekylin.online/](https://arch.icekylin.online/)
 
 ## 3. APPS
 
